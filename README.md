@@ -5,4 +5,4 @@ Scans pre-defined FM stations for currently playing song title and artist. Commu
 
 See https://www.hackster.io/davejaffe7/fm-radio-data-system-scanner-061f96 for Raspberry Pi code and all details on how to build
 
-![ScanRDS Android App](https://github.com/DaveJaffe/ScanRDS/blob/master/ScanRDS%20screenshot.png){:height="50%" width="50%"}
+![ScanRDS Android App](https://github.com/DaveJaffe/ScanRDS/blob/master/ScanRDS%20screenshot.png?s=100)
