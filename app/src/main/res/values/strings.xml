@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ScanRDS</string>
+    <string name="action_settings">Settings</string>
+    <string name="preset1Text">97.1</string>
+    <string name="preset2Text">98.5</string>
+    <string name="preset3Text">98.9</string>
+    <string name="preset4Text">100.1</string>
+    <string name="exitText">Exit</string>
+    <string name="ipAddressPrompt">IP Address of Raspberry Pi:</string>
+    <string name="preset1Prompt">Preset1:</string>
+    <string name="preset2Prompt">Preset2:</string>
+    <string name="preset3Prompt">Preset3:</string>
+    <string name="preset4Prompt">Preset4:</string>
+</resources>
